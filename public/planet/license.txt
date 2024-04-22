@@ -1,0 +1,11 @@
+Model Information:
+* title:	SANDWICH
+* source:	https://sketchfab.com/3d-models/sandwich-7afc1997e98643dba90dd8b412c4d76d
+* author:	Magali (https://sketchfab.com/Magali98)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SANDWICH" (https://sketchfab.com/3d-models/sandwich-7afc1997e98643dba90dd8b412c4d76d) by Magali (https://sketchfab.com/Magali98) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
