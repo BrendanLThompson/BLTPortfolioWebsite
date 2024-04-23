@@ -35,8 +35,8 @@ const Contact = () => {
     //z844Uvwkg0RM2tlrG
     emailjs
       .send(
-        service_92swo3f,
-        template_j9923py,
+        "service_92swo3f",
+        "template_j9923py",
         {
           from_name: form.name,
           to_name: "Brendan Thompson",
@@ -44,7 +44,7 @@ const Contact = () => {
           to_email: "blthomp00@gmail.com",
           message: form.message,
         },
-        z844Uvwkg0RM2tlrG
+        "z844Uvwkg0RM2tlrG"
       )
       .then(
         () => {
