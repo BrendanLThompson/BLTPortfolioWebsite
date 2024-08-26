@@ -20,7 +20,9 @@ import {
   carrent,
   jobit,
   tripguide,
+  bisdle,
   threejs,
+  website,
 } from "../assets";
 
 export const navLinks = [
@@ -185,7 +187,7 @@ const projects = [
   {
     name: "UniGuesser",
     description:
-      "A wordle clone that has users guess select California Colleges and Universities based on the images that are provided to the user through the Bing Search API.",
+      "A wordle-like web application that challenges players to guess the best-in-slot (BIS) item combinations for champions in the game Teamfight Tactics (TFT).",
     tags: [
       {
         name: "React Native",
@@ -196,7 +198,7 @@ const projects = [
         color: "text-blue3",
       },
       {
-        name: "Bing Search API",
+        name: "TailwindCSS",
         color: "text-blue2",
       },
     ],
@@ -205,6 +207,52 @@ const projects = [
       "https://github.com/BrendanLThompson/Uniguesser",
     test_link:
       "https://cdn.glitch.global/d0289d9a-f85e-403c-8fc9-fe94890df430/UNIGUESSER.pdf?v=1713769580870",
+  },
+  {
+    name: "Bisdle",
+    description:
+      "Another wordle clone based off of the game, Team Fight Tactics, which has users guess which character is being hinted at according to the best items that they can use.",
+    tags: [
+      {
+        name: "NextJS",
+        color: "text-blue4",
+      },
+      {
+        name: "Riot API",
+        color: "text-blue3",
+      },
+      {
+        name: "Bing Search API",
+        color: "text-blue2",
+      },
+    ],
+    image: bisdle,
+    source_code_link:
+      "https://github.com/mibernard/BISdle",
+    test_link: "https://bisdle.vercel.app/",
+  },
+  {
+    name: "Portfolio Website",
+    description:
+      "This website uses ThreeJS, ReactJS, TailwindCSS, and Vite as its main technologies. EamilJS is used to manage the contact portion of the page. ",
+    tags: [
+      {
+        name: "ThreeJS",
+        color: "text-blue4",
+      },
+      {
+        name: "ReactJS",
+        color: "text-blue3",
+      },
+      {
+        name: "Vite",
+        color: "text-blue2",
+      },
+    ],
+    image: website,
+    source_code_link:
+      "https://github.com/BrendanLThompson/BLTPortfolioWebsite",
+    test_link: "https://blthomp.vercel.app/",
   },
 ];
 

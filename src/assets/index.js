@@ -28,6 +28,8 @@ import indie from "./company/indie.jpg";
 import carrent from "./booknook.png";
 import jobit from "./randomsong gen.webp";
 import tripguide from "./uniguess.webp";
+import bisdle from "./bisdle.png";
+import website from "./website.jpg";
 
 export {
   logo,
@@ -56,5 +58,7 @@ export {
   beige,
   carrent,
   jobit,
+  bisdle,
+  website,
   tripguide,
 };
