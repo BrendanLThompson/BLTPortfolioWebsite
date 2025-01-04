@@ -23,6 +23,7 @@ import {
   bisdle,
   threejs,
   website,
+  applic,
 } from "../assets";
 
 export const navLinks = [
@@ -137,6 +138,30 @@ const experiences = [
 ];
 
 const projects = [
+  {
+    name: "Job Application Tracker",
+    description:
+      "A web application that allows users to create applications and view them on the website. Users can update the status of their applications and delete the application if needed. This application also communicates with Google Sheets to access the applications without needing to look on the website.",
+    tags: [
+      {
+        name: "Next.js",
+        color: "text-blue4",
+      },
+      {
+        name: "Google Sheets API",
+        color: "text-blue3",
+      },
+      {
+        name: "MongoDB",
+        color: "text-blue2",
+      },
+    ],
+    image: applic,
+    source_code_link:
+      "https://github.com/BrendanLThompson/job-application-tracker",
+    test_link:
+      "https://docs.google.com/spreadsheets/d/1rsZW3CYoSQPTDvL4J-Y2ZeEYxFJli5fpNMvA_ESuLlY/edit?usp=sharing",
+  },
   {
     name: "BookNook",
     description:

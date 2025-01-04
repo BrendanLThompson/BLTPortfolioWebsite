@@ -1,4 +1,5 @@
 import logo from "./logo.jpg";
+import me from "./me.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -30,8 +31,11 @@ import jobit from "./randomsong gen.webp";
 import tripguide from "./uniguess.webp";
 import bisdle from "./bisdle.png";
 import website from "./website.jpg";
+import applic from "./applic.png";
 
 export {
+  me,
+  applic,
   logo,
   backend,
   creator,
