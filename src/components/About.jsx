@@ -71,7 +71,7 @@ const About = () => {
       </motion.p>
       <motion.p variants={fadeIn("", "", 0.1, 1)}>
         <a
-          href="https://cdn.glitch.global/d0289d9a-f85e-403c-8fc9-fe94890df430/Brendan%20Thompson%20%20Resume.pdf?v=1713567944979"
+          href="src\assets\Brendan Thompson Resume.pdf"
           target="_blank"
         >
           <button
