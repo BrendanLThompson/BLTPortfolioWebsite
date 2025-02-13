@@ -71,7 +71,7 @@ const About = () => {
       </motion.p>
       <motion.p variants={fadeIn("", "", 0.1, 1)}>
         <a
-          href="src\assets\Brendan Thompson Resume.pdf"
+          href="https://drive.google.com/file/d/1UyHsOCs4P32lFNDWFm18ddYQjAuOxerm/view?usp=sharing"
           target="_blank"
         >
           <button
