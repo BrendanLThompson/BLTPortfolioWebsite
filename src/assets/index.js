@@ -1,5 +1,6 @@
 import logo from "./logo.jpg";
 import me from "./me.png";
+import be from "./be.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -35,6 +36,7 @@ import applic from "./applic.png";
 
 export {
   me,
+  be,
   applic,
   logo,
   backend,
